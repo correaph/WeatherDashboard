@@ -1,5 +1,5 @@
-# homework06
-Weather Dashboard
+# Weather Dashboard
+
 Check weather condition of (almost) any city on the planet before you leave home.
 By typing the city name, you get current weather conditions and a 5 day forecast.
 Ajax was used to get information from Open Weather API.
